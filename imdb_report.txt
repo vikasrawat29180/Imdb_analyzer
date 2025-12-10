@@ -1,0 +1,25 @@
+IMDb Movies Data Analyzer - Report
+
+========================================
+
+Total movies: 15
+
+
+Top 5 movies by rating:
+
+                   title  year  rating
+The Shawshank Redemption  1994     9.3
+           The Godfather  1972     9.2
+         The Dark Knight  2008     9.0
+            Pulp Fiction  1994     8.9
+            Forrest Gump  1994     8.8
+
+
+Director stats (top 5 by box office millions):
+
+         director  movie_count  avg_rating  total_box_office_millions
+    James Cameron            3    7.866667                       5185
+Christopher Nolan            4    8.700000                       2550
+  Robert Zemeckis            1    8.800000                        678
+Quentin Tarantino            2    8.650000                        639
+   Lana Wachowski            1    8.700000                        463
